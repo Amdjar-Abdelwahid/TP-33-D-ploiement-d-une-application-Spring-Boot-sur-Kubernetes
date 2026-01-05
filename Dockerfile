@@ -1,6 +1,6 @@
 FROM eclipse-temurin:17-jdk-alpine
 
-LABEL maintainer="Karkachi Mohamed <mohamed.karkachi@github.com>"
+LABEL maintainer="Amdjar Abdelwahid <amdjarabdelwahid1@github.com>"
 LABEL description="Application Cloud Microservice Platform - Spring Boot sur Kubernetes"
 LABEL version="2.0.0"
 LABEL author="Karkachi Mohamed"
