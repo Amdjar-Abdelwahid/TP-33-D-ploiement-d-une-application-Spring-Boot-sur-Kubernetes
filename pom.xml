@@ -20,23 +20,6 @@
             <url>https://opensource.org/licenses/MIT</url>
         </license>
     </licenses>
-    <developers>
-        <developer>
-            <id>medori42</id>
-            <name>Karkachi Mohamed</name>
-            <email>medori42@github.com</email>
-            <roles>
-                <role>Architecte Principal</role>
-                <role>Developpeur Senior</role>
-            </roles>
-        </developer>
-    </developers>
-    <scm>
-        <connection>scm:git:git://github.com/MohamedKARKACHI/tp-33.git</connection>
-        <developerConnection>scm:git:ssh://github.com/MohamedKARKACHI/tp-33.git</developerConnection>
-        <tag>HEAD</tag>
-        <url>https://github.com/MohamedKARKACHI/tp-33</url>
-    </scm>
     <properties>
         <java.version>17</java.version>
     </properties>
